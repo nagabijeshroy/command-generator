@@ -1,0 +1,9 @@
+export enum GitlabComponent {
+  STACK_NAME,
+  ENVIRONMENT,
+  GIT_TAG,
+  RESOURCE,
+  RESOURCE_SUBTYPE,
+  COST_CENTER_TAG,
+  DELETE_S3_STATIC_IPs
+}

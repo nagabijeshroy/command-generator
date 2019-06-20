@@ -1,0 +1,6 @@
+export enum GitlabChangeRequest {
+  SN_SHORT_DESCRIPTION,
+  SN_DESCRIPTION,
+  INSTANCE,
+  IS_PRODUCTION
+}

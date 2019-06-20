@@ -1,0 +1,9 @@
+export enum EC2ChangeRequest {
+  SN_SHORT_DESCRIPTION,
+  SN_DESCRIPTION,
+  VERSIONID,
+  SN_USER,
+  SN_PW,
+  INSTANCE,
+  IS_PRODUCTION
+}
